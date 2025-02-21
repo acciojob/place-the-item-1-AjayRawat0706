@@ -5,7 +5,7 @@
 	justify-content:space-between;
 	flex-wrap:wrap;
 }
-.elem{
+.item{
 	height:100px;
 	width:100px;
 	background-color:red;
